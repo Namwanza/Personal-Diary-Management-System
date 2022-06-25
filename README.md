@@ -15,13 +15,13 @@
           3.  File handling has been effectively used to keep the records.
           
 
-The basic user-defined functions used in this project are listed below: 
-          1. int password() – contains/manages/handles password protection 
-          2. void addrecord() – to add new diary record 
-          3. void viewrecord() – to view added record in list 
-          4. void editrecord() – to modify and update an added record 
-          5. void editpassword() – to modify/change a password 
-          6. void deleterecord() – to delete or remove a record permanently from system file 
+         The basic user-defined functions used in this project are listed below: 
+              1. int password() – contains/manages/handles password protection 
+              2. void addrecord() – to add new diary record 
+              3. void viewrecord() – to view added record in list 
+              4. void editrecord() – to modify and update an added record 
+              5. void editpassword() – to modify/change a password 
+              6. void deleterecord() – to delete or remove a record permanently from system file 
 
 In this project, you need to enter a password to view, edit or delete record. 
 
