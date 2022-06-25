@@ -1,6 +1,6 @@
 # Personal Diary Management System
 
- Markup : 1. In this console application, you can;
+         1. In this console application, you can;
               1. add
               2. view
               3. edit
